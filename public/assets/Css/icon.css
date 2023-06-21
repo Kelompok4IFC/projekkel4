@@ -1,0 +1,46 @@
+.back-to-top {
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 15px;
+    z-index: 996;
+    background: rgb(116, 3, 22);
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    transition: all 0.4s;
+  }
+  
+  .back-to-top i {
+    font-size: 28px;
+    color: #fff;
+    line-height: 0;
+  }
+  
+  .back-to-top:hover {
+    background: rgb(209, 188, 8);
+    color: #fff;
+  }
+  
+  .back-to-top.active {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  ul li {
+    list-style-type: none;
+  }
+  
+  ul li a {
+    display: flex;
+    align-items: center;
+  }
+  
+  ul li a i {
+    margin-right: 5px;
+  }
+  
+  ul li a span {
+    display: inline-block;
+  }

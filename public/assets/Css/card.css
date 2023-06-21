@@ -1,0 +1,4 @@
+.card {
+    background-color: rgba(255, 255, 255, 0.7); /* Nilai alpha 0.7 akan membuat background card menjadi transparan */
+    border: none;
+}

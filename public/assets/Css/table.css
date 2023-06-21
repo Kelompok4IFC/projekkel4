@@ -1,0 +1,182 @@
+
+
+/* Gaya tampilan navigasi */
+.menu {
+  text-align: left;
+}
+
+.menu h2 {
+  margin-bottom: 20px;
+}
+
+.menu .navigation {
+  margin-bottom: 20px;
+}
+
+/* Gaya tabel */
+.table-container {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #fdfdfd;
+}
+
+#tabel-asset {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabel-asset th{
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+}
+#tabel-asset td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #050000;
+}
+
+#tabel-asset th {
+  background-color: #5DA698;
+}
+#tabel-asset tbody tr:nth-child(even) {
+  background-color: #f2f2f2; /* Warna abu-abu pada baris genap */
+}
+
+#tabel-asset tbody tr:nth-child(odd) {
+  background-color: #fff; /* Warna putih pada baris ganjil */
+}
+
+/* Gaya tombol */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #5DA698;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.excel {
+  display: inline-block;
+  padding: 8px 16px;
+  margin-left: 10px;
+  background-color: #c49a6b;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.excel:hover {
+  background-color: #0A525A;
+}
+
+#cari-asset {
+  margin-left: 10px;
+  padding: 6px;
+  border-radius: 20px;
+  width: 250px;
+  background-color: #ffffff94;
+  color: #050505;
+  outline: none; /* Menghilangkan garis hitam saat diklik */
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.button:hover {
+  background-color: #0A525A;
+}
+
+/* Gaya form edit */
+#update-form- input[type="text"],
+#edit-form- {
+  display: none;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+
+.button-update {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.button-update:hover {
+  background-color: #0A525A;
+}
+
+/* Gaya form tambah */
+#add-form {
+  display: none;
+  margin-bottom: 20px;
+}
+
+#add-form input[type="text"],
+#add-form button {
+  margin-top: 10px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+#add-form button[type="submit"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#add-form button[type="submit"]:hover {
+  background-color: #0A525A;
+}
+
+#add-form button[type="button"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#add-form button[type="button"]:hover {
+  background-color: #0A525A;
+}

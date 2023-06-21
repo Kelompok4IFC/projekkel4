@@ -1,0 +1,309 @@
+INFO - 2023-05-22 03:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 03:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-22 03:27:49 --> Undefined variable $peminjam
+in APPPATH\Views\karyawan.php on line 116.
+ 1 APPPATH\Views\karyawan.php(116): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $peminjam', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 116)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(21): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-22 03:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 03:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 03:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-22 04:28:35 --> Undefined array key "keadaan"
+in APPPATH\Views\karyawan.php on line 175.
+ 1 APPPATH\Views\karyawan.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "keadaan"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 175)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(21): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 04:30:27 --> Undefined array key "tanggal"
+in APPPATH\Views\karyawan.php on line 176.
+ 1 APPPATH\Views\karyawan.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tanggal"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 176)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(21): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 04:31:56 --> Undefined array key "lokasi"
+in APPPATH\Views\karyawan.php on line 177.
+ 1 APPPATH\Views\karyawan.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lokasi"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 177)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(21): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-22 04:44:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 04:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 04:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 06:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 07:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 12:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 12:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 12:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-22 13:04:11 --> Cannot call constructor
+in APPPATH\Controllers\TrackingController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\TrackingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:06:08 --> Call to a member function model() on null
+in APPPATH\Models\TrackingModel.php on line 14.
+ 1 APPPATH\Controllers\KaryawanController.php(17): App\Models\TrackingModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:06:09 --> Call to a member function model() on null
+in APPPATH\Models\TrackingModel.php on line 14.
+ 1 APPPATH\Controllers\KaryawanController.php(17): App\Models\TrackingModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:06:12 --> Call to a member function model() on null
+in APPPATH\Models\TrackingModel.php on line 14.
+ 1 APPPATH\Controllers\KaryawanController.php(17): App\Models\TrackingModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:06:13 --> Call to a member function model() on null
+in APPPATH\Models\TrackingModel.php on line 14.
+ 1 APPPATH\Controllers\KaryawanController.php(17): App\Models\TrackingModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:06:48 --> Cannot call constructor
+in APPPATH\Controllers\TrackingController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\TrackingController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:08:42 --> Undefined property: App\Controllers\KaryawanController::$input
+in APPPATH\Controllers\KaryawanController.php on line 189.
+ 1 APPPATH\Controllers\KaryawanController.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$input', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 189)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:10:04 --> Undefined property: App\Controllers\KaryawanController::$input
+in APPPATH\Controllers\KaryawanController.php on line 189.
+ 1 APPPATH\Controllers\KaryawanController.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$input', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 189)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:10:40 --> Call to undefined method App\Controllers\KaryawanController::getPost()
+in APPPATH\Controllers\KaryawanController.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:11:39 --> Undefined property: App\Controllers\KaryawanController::$TrackingModel
+in APPPATH\Controllers\KaryawanController.php on line 194.
+ 1 APPPATH\Controllers\KaryawanController.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$TrackingModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 194)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 13:13:09 --> Call to undefined method App\Controllers\KaryawanController::insert()
+in APPPATH\Controllers\KaryawanController.php on line 194.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 14:14:51 --> Undefined variable $TrackingModel
+in APPPATH\Controllers\KaryawanController.php on line 203.
+ 1 APPPATH\Controllers\KaryawanController.php(203): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $TrackingModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 203)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->edit('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 14:16:39 --> Undefined variable $data
+in APPPATH\Controllers\KaryawanController.php on line 203.
+ 1 APPPATH\Controllers\KaryawanController.php(203): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 203)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->edit('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 14:19:47 --> CodeIgniter\BaseModel::transformDataToArray(): Return value must be of type array, string returned
+in SYSTEMPATH\BaseModel.php on line 1706.
+ 1 SYSTEMPATH\BaseModel.php(742): CodeIgniter\BaseModel->transformDataToArray('6', 'insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert('6', true)
+ 3 APPPATH\Controllers\KaryawanController.php(203): CodeIgniter\Model->insert('6')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->edit('6')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 14:25:15 --> Invalid file: "edit_tracking.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_tracking.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('edit_tracking', [], true)
+ 3 APPPATH\Controllers\KaryawanController.php(205): view('edit_tracking', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:01:30 --> Undefined variable $PeminjamanModel
+in APPPATH\Controllers\KaryawanController.php on line 111.
+ 1 APPPATH\Controllers\KaryawanController.php(111): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $PeminjamanModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 111)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->editPeminjaman('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:02:14 --> Invalid file: "edit_peminjaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_peminjaman.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('edit_peminjaman', [], true)
+ 3 APPPATH\Controllers\KaryawanController.php(113): view('edit_peminjaman', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->editPeminjaman('1')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:18:22 --> Undefined property: App\Controllers\KaryawanController::$input
+in APPPATH\Controllers\KaryawanController.php on line 210.
+ 1 APPPATH\Controllers\KaryawanController.php(210): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$input', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 210)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:22:25 --> Undefined property: App\Controllers\KaryawanController::$TrackingModel
+in APPPATH\Controllers\KaryawanController.php on line 217.
+ 1 APPPATH\Controllers\KaryawanController.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$TrackingModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 217)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:27:05 --> Undefined property: App\Controllers\KaryawanController::$TrackingModel
+in APPPATH\Controllers\KaryawanController.php on line 217.
+ 1 APPPATH\Controllers\KaryawanController.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$TrackingModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 217)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:37:38 --> Undefined variable $assetModel
+in APPPATH\Controllers\KaryawanController.php on line 219.
+ 1 APPPATH\Controllers\KaryawanController.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 219)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 15:38:48 --> Undefined property: App\Controllers\KaryawanController::$TrackingModel
+in APPPATH\Controllers\KaryawanController.php on line 230.
+ 1 APPPATH\Controllers\KaryawanController.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\KaryawanController::$TrackingModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:39:12 --> Undefined variable $tracking
+in APPPATH\Controllers\TrackingController.php on line 23.
+ 1 APPPATH\Controllers\TrackingController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tracking', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\TrackingController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:46:05 --> Undefined property: App\Libraries\Trackingexcel::$response
+in APPPATH\Libraries\Trackingexcel.php on line 44.
+ 1 APPPATH\Libraries\Trackingexcel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Libraries\\Trackingexcel::$response', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Libraries\\Trackingexcel.php', 44)
+ 2 APPPATH\Controllers\TrackingController.php(23): App\Libraries\Trackingexcel->exportToExcel([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:46:27 --> Undefined property: App\Libraries\Trackingexcel::$response
+in APPPATH\Libraries\Trackingexcel.php on line 44.
+ 1 APPPATH\Libraries\Trackingexcel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Libraries\\Trackingexcel::$response', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Libraries\\Trackingexcel.php', 44)
+ 2 APPPATH\Controllers\TrackingController.php(23): App\Libraries\Trackingexcel->exportToExcel([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:49:25 --> Undefined property: App\Libraries\Trackingexcel::$spreadsheet
+in APPPATH\Libraries\Trackingexcel.php on line 42.
+ 1 APPPATH\Libraries\Trackingexcel.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Libraries\\Trackingexcel::$spreadsheet', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Libraries\\Trackingexcel.php', 42)
+ 2 APPPATH\Controllers\TrackingController.php(23): App\Libraries\Trackingexcel->exportToExcel([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:52:28 --> Too few arguments to function CodeIgniter\HTTP\Response::__construct(), 0 passed in C:\xampp\htdocs\kelompok4-main\app\Libraries\Trackingexcel.php on line 15 and exactly 1 expected
+in SYSTEMPATH\HTTP\Response.php on line 148.
+ 1 APPPATH\Libraries\Trackingexcel.php(15): CodeIgniter\HTTP\Response->__construct()
+ 2 APPPATH\Controllers\TrackingController.php(22): App\Libraries\Trackingexcel->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:54:29 --> Too few arguments to function CodeIgniter\HTTP\Response::__construct(), 0 passed in C:\xampp\htdocs\kelompok4-main\app\Libraries\Trackingexcel.php on line 15 and exactly 1 expected
+in SYSTEMPATH\HTTP\Response.php on line 148.
+ 1 APPPATH\Libraries\Trackingexcel.php(15): CodeIgniter\HTTP\Response->__construct()
+ 2 APPPATH\Controllers\TrackingController.php(22): App\Libraries\Trackingexcel->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-22 16:55:34 --> Undefined property: App\Libraries\Trackingexcel::$response
+in APPPATH\Libraries\Trackingexcel.php on line 44.
+ 1 APPPATH\Libraries\Trackingexcel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Libraries\\Trackingexcel::$response', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Libraries\\Trackingexcel.php', 44)
+ 2 APPPATH\Controllers\TrackingController.php(23): App\Libraries\Trackingexcel->exportToExcel([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\TrackingController->exportToExcel()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TrackingController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-22 21:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

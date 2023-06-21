@@ -1,0 +1,89 @@
+/* Gaya tampilan navigasi */
+#section6.menu {
+    text-align: left;
+  }
+  
+  #section6.menu h2 {
+    margin-bottom: 20px;
+  }
+  
+  #section6.menu .table-pengaduan {
+    margin-bottom: 20px;
+  }
+  
+  #section6.menu .navbar-tracking {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #5DA698;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #section6.menu .navbar-tracking a.excel {
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #c49a6b;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+
+  #section6.menu .navbar-tracking a.excel:hover {
+    background-color: #0A525A;
+  }
+  
+  #section6.menu #pengaduan-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #section6.menu #pengaduan-table th{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  #section6.menu #pengaduan-table td {
+    padding: 8px;
+    text-align: center;
+    color: #050000;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #section6.menu #pengaduan-table th {
+    color: #fff;
+    background-color: #5DA698;
+  }
+  
+  #section6.menu #pengaduan-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Warna abu-abu pada baris genap */
+  }
+  
+  #section6.menu #pengaduan-table tbody tr:nth-child(odd) {
+    background-color: #fff; /* Warna putih pada baris ganjil */
+  }
+  
+  #section6.menu .button {
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #c49a6b;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #section6.menu .button:hover {
+    background-color: #0A525A;
+  }
+  
+  #section6.menu p {
+    margin: 0;
+  }

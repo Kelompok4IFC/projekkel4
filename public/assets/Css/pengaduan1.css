@@ -1,0 +1,220 @@
+#section4 .menu {
+  margin: 20px;
+}
+
+#section4 .menu h2 {
+  color: #333;
+  text-align: center;
+}
+
+#section4 .navbar-tracking {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #5DA698;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#section4 .button-lokasi {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+#section4 .button-lokasi :hover{
+  background-color: #0A525A;
+}
+
+#section4 .excel {
+  display: inline-block;
+  padding: 8px 16px;
+  margin-left: 10px;
+  background-color: #c49a6b;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+#section4 #cari-isi {
+  margin-left: 10px;
+  padding: 6px;
+  border-radius: 20px;
+  width: 250px;
+  background-color: #ffffff94;
+  color: #050505;
+  outline: none; /* Menghilangkan garis hitam saat diklik */
+}
+
+#section4 .table-container {
+  margin-bottom: 20px;
+}
+
+#section4 #tabel-status-lokasi {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#section4 #tabel-status-lokasi th{
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+}
+#section4 #tabel-status-lokasi td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #050000;
+}
+
+#section4 #tabel-status-lokasi th {
+  background-color: #5DA698;
+}
+
+#section4 .search-container {
+  margin-bottom: 20px;
+}
+
+#section4 .search-container form {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#section4 .search-container input[type="text"],
+#section4 .search-container input[type="date"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+#section4 .search-container .button-tracking {
+  background-color: #c49a6b;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#section4 .search-container button[type="button"] {
+  background-color: #c49a6b;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#section4 .table-pengaduan {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #fdfdfd;
+}
+
+#section4 #pengaduan-table {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #fdfdfd;
+}
+
+#section4 #pengaduan-table th{
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+}
+#section4 #pengaduan-table td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #050000;
+}
+
+#section4 #pengaduan-table th {
+  background-color: #5DA698;
+}
+
+#section4 .table-pengaduan p {
+  color: #333;
+  text-align: center;
+  margin: 10px 0;
+}
+
+#section4 .button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+#section4 .button-lokasi:hover {
+  background-color: #0A525A;
+}
+
+#section4 .excel:hover {
+  background-color: #0A525A;
+}
+
+#section4 .button:hover {
+  background-color: #0A525A;
+}
+#section4 button[type="submit"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section4 button[type="submit"]:hover {
+  background-color: #0A525A;
+}
+
+#section4 button[type="button"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section4 button[type="button"]:hover {
+  background-color: #0A525A;
+}

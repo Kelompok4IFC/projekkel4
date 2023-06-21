@@ -1,0 +1,1301 @@
+INFO - 2023-05-19 04:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 04:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 04:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 04:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 04:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 04:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 04:54:02 --> require_once(BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:55:06 --> require_once(controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:55:08 --> require_once(controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:55:09 --> require_once(controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:55:10 --> require_once(controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:56:17 --> require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:56:17 --> require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:56:18 --> require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:56:19 --> require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:56:20 --> require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory
+in APPPATH\Views\karyawan.php on line 3.
+ 1 APPPATH\Views\karyawan.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(app/controllers/BarangController.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 3)
+ 2 APPPATH\Views\karyawan.php(3): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 6 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:57:52 --> Undefined variable $assetModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:58:50 --> Undefined variable $assetModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:58:51 --> Undefined variable $assetModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:58:52 --> Undefined variable $assetModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:58:53 --> Undefined variable $assetModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 04:59:17 --> Undefined variable $BarangModel
+in APPPATH\Views\karyawan.php on line 62.
+ 1 APPPATH\Views\karyawan.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $BarangModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:47 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:50 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:51 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:52 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:52 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:09:53 --> Undefined variable $assets
+in APPPATH\Views\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assets', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-05-19 05:12:39 --> mysqli_sql_exception: Table 'kelompok4.assets' doesn't exist in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '0')
+#6 C:\xampp\htdocs\kelompok4-main\app\Controllers\Asset.php(36): CodeIgniter\BaseModel->find('0')
+#7 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-19 05:12:39 --> Table 'kelompok4.assets' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `assets`
+WHERE `assets`.`id` = \'0\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `assets`
+WHERE `assets`.`id` = \'0\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `assets`
+WHERE `assets`.`id` = \'0\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `assets`
+WHERE `assets`.`id` = :assets.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '0')
+ 7 APPPATH\Controllers\Asset.php(36): CodeIgniter\BaseModel->find('0')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-05-19 05:12:57 --> mysqli_sql_exception: Table 'kelompok4.assets' doesn't exist in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `as...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `as...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `as...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `as...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\Asset.php(27): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Asset->save()
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-05-19 05:12:57 --> Table 'kelompok4.assets' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `assets` (`nama`, `harga`, `jumlah`) VALUES (\'asaa\', \'123\', \'1212\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `assets` (`nama`, `harga`, `jumlah`) VALUES (\'asaa\', \'123\', \'1212\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `assets` (`nama`, `harga`, `jumlah`) VALUES (\'asaa\', \'123\', \'1212\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `assets` (`nama`, `harga`, `jumlah`) VALUES (:nama:, :harga:, :jumlah:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Asset.php(27): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->save()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:17:59 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:18:10 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:13 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:13 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:14 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:15 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:15 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:23:15 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:25:22 --> Invalid file: "karyawan/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('karyawan/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:25:23 --> Invalid file: "karyawan/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('karyawan/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:25:24 --> Invalid file: "karyawan/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('karyawan/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:49:36 --> Invalid file: "asset/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/edit.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/edit', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:00 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:01 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:02 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:02 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:03 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:04 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 05:50:04 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(38): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 06:00:20 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2767.
+ 1 SYSTEMPATH\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\Asset.php(60): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->delete('0')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 06:36:53 --> Invalid file: "layouts/main.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/main', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 06:39:58 --> Invalid file: "layouts/main.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/main', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 06:39:59 --> Invalid file: "layouts/main.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/main', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 09:05:22 --> Invalid file: "layouts/main.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/main', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\Karyawan.php(10): view('karyawan')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Karyawan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 09:24:11 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(42): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('35')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 10:51:14 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(44): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('51')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:05:44 --> Invalid file: "asset/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(47): view('asset/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('51')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 11:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 11:08:17 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:09:57 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:09:58 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 11:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 11:14:44 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:16:34 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:16:35 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 11:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 11:19:04 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 11:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 11:20:27 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:27:42 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:28:19 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:28:20 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:33:28 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:33:29 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:33:29 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:33:30 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:33:40 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:14 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:15 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:16 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:16 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:20 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:21 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:21 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:22 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:23 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:24 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:24 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:34:25 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:36:43 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:36:44 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:36:45 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:36:45 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:36:46 --> Undefined variable $id
+in APPPATH\Views\karyawan.php on line 79.
+ 1 APPPATH\Views\karyawan.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 79)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 11:47:50 --> Invalid file: "asset.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('asset.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('asset', [], true)
+ 3 APPPATH\Controllers\Asset.php(46): view('asset', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('59')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 11:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 11:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 12:02:00 --> The route for "karyawan" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('karyawan')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Asset.php(46): redirect('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('60')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 12:07:18 --> The route for "karyawan" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('karyawan')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Asset.php(46): redirect('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('60')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 12:07:18 --> The route for "karyawan" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('karyawan')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Asset.php(46): redirect('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('60')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 12:07:20 --> The route for "karyawan" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('karyawan')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Asset.php(46): redirect('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('60')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 12:07:23 --> The route for "karyawan" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('karyawan')
+ 2 SYSTEMPATH\Common.php(880): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Asset.php(46): redirect('karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->edit('55')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 12:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 12:14:05 --> Uninitialized string offset 0
+in SYSTEMPATH\CodeIgniter.php on line 892.
+ 1 SYSTEMPATH\CodeIgniter.php(892): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 0', 'C:\\xampp\\htdocs\\kelompok4-main\\vendor\\codeigniter4\\framework\\system\\CodeIgniter.php', 892)
+ 2 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 12:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 12:29:53 --> Uninitialized string offset 0
+in SYSTEMPATH\CodeIgniter.php on line 892.
+ 1 SYSTEMPATH\CodeIgniter.php(892): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 0', 'C:\\xampp\\htdocs\\kelompok4-main\\vendor\\codeigniter4\\framework\\system\\CodeIgniter.php', 892)
+ 2 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 12:30:09 --> Uninitialized string offset 0
+in SYSTEMPATH\CodeIgniter.php on line 892.
+ 1 SYSTEMPATH\CodeIgniter.php(892): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 0', 'C:\\xampp\\htdocs\\kelompok4-main\\vendor\\codeigniter4\\framework\\system\\CodeIgniter.php', 892)
+ 2 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 12:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 12:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 13:10:55 --> Invalid file: "karyawan/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('karyawan/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan/index', [], true)
+ 3 APPPATH\Controllers\Asset.php(14): view('karyawan/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-05-19 13:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 13:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 14:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 14:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 18:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 18:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 20:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-19 20:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-19 21:19:34 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:25:35 --> Undefined property: App\Controllers\AssetController::$assetModel
+in APPPATH\Controllers\AssetController.php on line 14.
+ 1 APPPATH\Controllers\AssetController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AssetController::$assetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\AssetController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:26:30 --> Undefined property: App\Controllers\AssetController::$AssetModel
+in APPPATH\Controllers\AssetController.php on line 14.
+ 1 APPPATH\Controllers\AssetController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AssetController::$AssetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\AssetController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:26:31 --> Undefined property: App\Controllers\AssetController::$AssetModel
+in APPPATH\Controllers\AssetController.php on line 14.
+ 1 APPPATH\Controllers\AssetController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AssetController::$AssetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\AssetController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:26:32 --> Undefined property: App\Controllers\AssetController::$AssetModel
+in APPPATH\Controllers\AssetController.php on line 14.
+ 1 APPPATH\Controllers\AssetController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AssetController::$AssetModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\AssetController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:31:32 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:32:14 --> Call to undefined function App\Controllers\Excel()
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:32:23 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:35:34 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 21:39:11 --> Class "PHPExcel" not found
+in APPPATH\Libraries\Excel.php on line 12.
+ 1 APPPATH\Controllers\AssetController.php(29): App\Libraries\Excel->exportDataToExcel([...], 'assets.xlsx')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:08:19 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:08:40 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:08:41 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:11:01 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:11:02 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:11:03 --> Class "App\Libraries\Excel" not found
+in APPPATH\Controllers\AssetController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:49:53 --> Undefined constant PhpOffice\PhpSpreadsheet\Style\NumberFormat::FORMAT_CURRENCY_IDR
+in APPPATH\Libraries\Excel.php on line 30.
+ 1 APPPATH\Controllers\AssetController.php(29): App\Libraries\Excel->exportDataToExcel([...], 'assetskelompok4.xlsx')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 22:50:44 --> Undefined constant PhpOffice\PhpSpreadsheet\Style\NumberFormat::FORMAT_CURRENCY_IDR
+in APPPATH\Libraries\Excel.php on line 30.
+ 1 APPPATH\Controllers\AssetController.php(29): App\Libraries\Excel->exportDataToExcel([...], 'assetskelompok4.xlsx')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AssetController->exportToExcel()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssetController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-05-19 23:25:00 --> Undefined variable $peminjam
+in APPPATH\Views\karyawan.php on line 108.
+ 1 APPPATH\Views\karyawan.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $peminjam', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 108)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\Asset.php(14): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Asset->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Asset))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')

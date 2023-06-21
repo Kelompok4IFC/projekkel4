@@ -1,0 +1,34 @@
+CRITICAL - 2023-06-07 08:06:56 --> Undefined array key "id"
+in APPPATH\Views\karyawan.php on line 293.
+ 1 APPPATH\Views\karyawan.php(293): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 293)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(27): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-07 08:32:05 --> Undefined array key "pengaduan"
+in APPPATH\Views\karyawan.php on line 293.
+ 1 APPPATH\Views\karyawan.php(293): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pengaduan"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 293)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(27): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-07 14:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 15:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 15:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 17:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

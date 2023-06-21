@@ -1,0 +1,1734 @@
+INFO - 2023-06-19 01:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:48:56 --> Undefined variable $user
+in APPPATH\Views\karyawan.php on line 76.
+ 1 APPPATH\Views\karyawan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 76)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:53:05 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:34 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:35 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:36 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:37 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:39 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:39 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:40 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:55:40 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:57:42 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:57:43 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:57:49 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 01:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:58:52 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:58:53 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 01:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 01:58:54 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 10:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-19 10:54:53 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'kelompok4', 3306, '', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\kelompok4-main\app\Controllers\Login.php(20): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Login->index()
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\kelompok4-main\app\Controllers\Login.php(20): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Login->index()
+#7 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-06-19 10:54:53 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `karyawan`
+WHERE `karyawan_username` = :karyawan_username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\Login.php(20): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 10:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 10:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 10:56:04 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 10:58:11 --> Class "App\Controllers\ModelKaryawan" not found
+in APPPATH\Controllers\KaryawanController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 10:58:48 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 10:59:29 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 10:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 10:59:30 --> Class "ModelsKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 11:00:54 --> Class "ModelKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 11:00:56 --> Class "ModelKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 11:00:57 --> Class "ModelKaryawan" not found
+in APPPATH\Views\karyawan.php on line 78.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 4 APPPATH\Controllers\KaryawanController.php(39): view('karyawan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 11:17:46 --> Class "App\Models\ModelKaryawan" not found
+in APPPATH\Models\AssetModel.php on line 64.
+ 1 APPPATH\Models\AssetModel.php(46): App\Models\AssetModel->getCurrentUser()
+ 2 APPPATH\Controllers\KaryawanController.php(84): App\Models\AssetModel->update('9', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateAsset('9')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-19 11:20:08 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `lo...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `lo...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `lo...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `lo...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\app\Models\AssetModel.php(59): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kelompok4-main\app\Models\AssetModel.php(49): App\Models\AssetModel->insertLog(Array)
+#6 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(84): App\Models\AssetModel->update('12', Array)
+#7 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateAsset('12')
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-06-19 11:20:08 --> Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `log_asset` (`id`, `action`, `data`, `user`, `timestamp`) VALUES (\'12\', \'update\', \'{\\"nama\\":\\"meja & kursi\\",\\"harga_beli\\":\\"1000000\\",\\"jumlah\\":\\"350\\",\\"kondisi_barang\\":\\"seken\\"}\', NULL, \'2023-06-19 18:20:08\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `log_asset` (`id`, `action`, `data`, `user`, `timestamp`) VALUES (\'12\', \'update\', \'{\\"nama\\":\\"meja & kursi\\",\\"harga_beli\\":\\"1000000\\",\\"jumlah\\":\\"350\\",\\"kondisi_barang\\":\\"seken\\"}\', NULL, \'2023-06-19 18:20:08\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `log_asset` (`id`, `action`, `data`, `user`, `timestamp`) VALUES (\'12\', \'update\', \'{\\"nama\\":\\"meja & kursi\\",\\"harga_beli\\":\\"1000000\\",\\"jumlah\\":\\"350\\",\\"kondisi_barang\\":\\"seken\\"}\', NULL, \'2023-06-19 18:20:08\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `log_asset` (`id`, `action`, `data`, `user`, `timestamp`) VALUES (:id:, :action:, :data:, :user:, :timestamp:)', [...], false)
+ 5 APPPATH\Models\AssetModel.php(59): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Models\AssetModel.php(49): App\Models\AssetModel->insertLog([...])
+ 7 APPPATH\Controllers\KaryawanController.php(84): App\Models\AssetModel->update('12', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateAsset('12')
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 11:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 11:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 12:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:27:52 --> Undefined variable $id
+in APPPATH\Models\TrackingModel.php on line 23.
+ 1 APPPATH\Models\TrackingModel.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Models\\TrackingModel.php', 23)
+ 2 APPPATH\Controllers\KaryawanController.php(239): App\Models\TrackingModel->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->save()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:29:57 --> Undefined variable $id
+in APPPATH\Models\PeminjamanModel.php on line 23.
+ 1 APPPATH\Models\PeminjamanModel.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Models\\PeminjamanModel.php', 23)
+ 2 APPPATH\Controllers\KaryawanController.php(127): App\Models\PeminjamanModel->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->savePeminjaman()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:53:12 --> Undefined array key "id"
+in APPPATH\Views\karyawan.php on line 399.
+ 1 APPPATH\Views\karyawan.php(399): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 399)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(45): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:53:47 --> Undefined array key "id"
+in APPPATH\Views\karyawan.php on line 399.
+ 1 APPPATH\Views\karyawan.php(399): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 399)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(45): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:53:49 --> Undefined array key "id"
+in APPPATH\Views\karyawan.php on line 399.
+ 1 APPPATH\Views\karyawan.php(399): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 399)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(45): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 13:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:58:41 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-18')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 13:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 13:58:54 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-07')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 14:00:06 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-07')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:00:10 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-07')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:00:34 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-07')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 14:02:23 --> Undefined variable $investasiModel
+in APPPATH\Controllers\KaryawanController.php on line 425.
+ 1 APPPATH\Controllers\KaryawanController.php(425): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $investasiModel', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 425)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->deleteInvestasi('2023-06-07')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 14:17:37 --> Undefined variable $index
+in APPPATH\Views\karyawan.php on line 405.
+ 1 APPPATH\Views\karyawan.php(405): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php', 405)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\kelompok4-main\\app\\Views\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('karyawan', [], true)
+ 5 APPPATH\Controllers\KaryawanController.php(45): view('karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:18:58 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:18:58 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 369.
+ 1 APPPATH\Controllers\KaryawanController.php(369): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 369)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:26:03 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:26:03 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 369.
+ 1 APPPATH\Controllers\KaryawanController.php(369): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 369)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 14:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:32:12 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:32:12 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 369.
+ 1 APPPATH\Controllers\KaryawanController.php(369): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 369)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 14:32:59 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 14:32:59 --> Undefined variable $nama_investasi
+in APPPATH\Controllers\KaryawanController.php on line 369.
+ 1 APPPATH\Controllers\KaryawanController.php(369): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_investasi', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Controllers\\KaryawanController.php', 369)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:34:02 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:34:02 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:34:02 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:36:26 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:36:26 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:36:26 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:38:37 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:38:37 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:38:37 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:40:30 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:40:30 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:40:30 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:41:32 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:41:32 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:41:32 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:46:15 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:46:15 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:46:15 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:49:22 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:49:22 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:49:22 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:53:28 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:53:28 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:53:28 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:55:59 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 14:55:59 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 401.
+ 1 APPPATH\Controllers\KaryawanController.php(401): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 14:55:59 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 405.
+ 1 APPPATH\Controllers\KaryawanController.php(405): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:55:59 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:55:59 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 14:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 14:58:34 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 14:58:34 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 401.
+ 1 APPPATH\Controllers\KaryawanController.php(401): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 14:58:34 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 405.
+ 1 APPPATH\Controllers\KaryawanController.php(405): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 14:58:34 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 14:58:34 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:00:32 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:00:32 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 401.
+ 1 APPPATH\Controllers\KaryawanController.php(401): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:00:32 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 405.
+ 1 APPPATH\Controllers\KaryawanController.php(405): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:00:32 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:00:32 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 15:01:57 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:01:57 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 401.
+ 1 APPPATH\Controllers\KaryawanController.php(401): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:01:57 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 405.
+ 1 APPPATH\Controllers\KaryawanController.php(405): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:01:57 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:01:57 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:02:16 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:02:16 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 401.
+ 1 APPPATH\Controllers\KaryawanController.php(401): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:02:16 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\KaryawanController.php on line 405.
+ 1 APPPATH\Controllers\KaryawanController.php(405): str_replace(',', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:02:16 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:02:16 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (\'\', NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(418): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 15:10:56 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:10:56 --> mysqli_sql_exception: Column 'tahun' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(409): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:10:56 --> Column 'tahun' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :tahun:, :keuntungan:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(409): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:11:02 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:11:02 --> mysqli_sql_exception: Column 'tahun' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(409): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:11:02 --> Column 'tahun' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tahun`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :tahun:, :keuntungan:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(409): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 15:12:20 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:12:20 --> mysqli_sql_exception: Column 'keuntungan' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(408): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:12:20 --> Column 'keuntungan' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :keuntungan:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(408): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:12:23 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:12:23 --> mysqli_sql_exception: Column 'keuntungan' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(408): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:12:23 --> Column 'keuntungan' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `keuntungan`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :keuntungan:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(408): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 15:12:57 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:12:57 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(406): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:12:57 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (:nama_investasi:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(406): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:12:59 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:12:59 --> mysqli_sql_exception: Column 'tanggal' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(406): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:12:59 --> Column 'tanggal' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (\'\', \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `roi`, `tanggal`) VALUES (:nama_investasi:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(406): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-19 15:13:41 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:13:41 --> mysqli_sql_exception: Column 'biaya' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(407): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:13:41 --> Column 'biaya' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(407): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 15:13:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:13:44 --> mysqli_sql_exception: Column 'biaya' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(407): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:13:44 --> Column 'biaya' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (\'\', NULL, \'0\', NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `biaya`, `roi`, `tanggal`) VALUES (:nama_investasi:, :biaya:, :roi:, :tanggal:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(407): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-19 15:31:34 --> mysqli_sql_exception: Column 'nama_investasi' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:31:34 --> Column 'nama_investasi' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+ERROR - 2023-06-19 15:31:42 --> mysqli_sql_exception: Column 'nama_investasi' cannot be null in C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `in...', 0)
+#1 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `in...')
+#2 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `in...')
+#3 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `in...', Array, false)
+#4 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\kelompok4-main\app\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+#9 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+#10 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\kelompok4-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\kelompok4-main\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-06-19 15:31:42 --> Column 'nama_investasi' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (NULL, NULL, NULL, NULL, NULL, \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `investasi` (`nama_investasi`, `tanggal`, `tahun`, `keuntungan`, `biaya`, `roi`) VALUES (:nama_investasi:, :tanggal:, :tahun:, :keuntungan:, :biaya:, :roi:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\KaryawanController.php(412): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('0')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 15:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 15:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:09:56 --> Class "App\Models\AssetModel" not found
+in APPPATH\Controllers\KaryawanController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:11:59 --> Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 391.
+ 1 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Model->update(null, [...])
+ 4 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitian')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:17:54 --> Declaration of App\Models\InvestasiModel::update($nama_investasi, $data = null): bool must be compatible with CodeIgniter\Model::update($id = null, $data = null): bool
+in APPPATH\Models\InvestasiModel.php on line 33.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-06-19 16:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:36:54 --> Declaration of App\Models\InvestasiModel::update($nama_investasi, $data = null): bool must be compatible with CodeIgniter\Model::update($id = null, $data = null): bool
+in APPPATH\Models\InvestasiModel.php on line 33.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-06-19 16:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:39:00 --> Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 391.
+ 1 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Model->update(null, [...])
+ 4 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+WARNING - 2023-06-19 16:39:12 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\KaryawanController.php on line 337.
+ 1 APPPATH\Controllers\KaryawanController.php(337): trim(null)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+CRITICAL - 2023-06-19 16:39:12 --> Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 391.
+ 1 SYSTEMPATH\BaseModel.php(943): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Model->update(null, [...])
+ 4 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:41:56 --> Trying to access array offset on value of type null
+in APPPATH\Models\InvestasiModel.php on line 39.
+ 1 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Models\\InvestasiModel.php', 39)
+ 2 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:42:47 --> Trying to access array offset on value of type null
+in APPPATH\Models\InvestasiModel.php on line 39.
+ 1 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Models\\InvestasiModel.php', 39)
+ 2 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-19 16:44:36 --> Trying to access array offset on value of type null
+in APPPATH\Models\InvestasiModel.php on line 39.
+ 1 APPPATH\Models\InvestasiModel.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kelompok4-main\\app\\Models\\InvestasiModel.php', 39)
+ 2 APPPATH\Controllers\KaryawanController.php(406): App\Models\InvestasiModel->update()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\KaryawanController->updateInvestasi('penelitianS')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KaryawanController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\kelompok4-main\\public\\index.php')
+INFO - 2023-06-19 16:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 16:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-19 17:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

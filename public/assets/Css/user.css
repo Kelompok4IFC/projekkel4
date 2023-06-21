@@ -1,0 +1,163 @@
+/* Gaya tampilan navigasi */
+#section7.menu {
+  text-align: left;
+}
+
+#section7.menu h2 {
+  margin-bottom: 20px;
+}
+
+#section7.menu .navbar-user {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #5DA698;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#section7.menu .navbar-user .button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section7.menu .navbar-user .button:hover {
+  background-color: #0A525A;
+}
+
+#section7.menu .navbar-user input[type="text"] {
+  margin-left: 10px;
+  padding: 6px;
+  border-radius: 20px;
+  width: 250px;
+  background-color: #ffffff94;
+  color: #050505;
+  outline: none;
+}
+
+/* Gaya tabel User */
+#section7.menu .table-User {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #fdfdfd;
+}
+
+#section7.menu #tabel-User {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#section7.menu #tabel-User th {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+  background-color: #5DA698;
+}
+
+#section7.menu #tabel-User td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #050000;
+}
+
+#section7.menu #tabel-User tbody tr:nth-child(even) {
+  background-color: #f2f2f2; /* Warna abu-abu pada baris genap */
+}
+
+#section7.menu #tabel-User tbody tr:nth-child(odd) {
+  background-color: #fff; /* Warna putih pada baris ganjil */
+}
+
+/* Gaya tombol aksi */
+#section7.menu .table-User a.button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section7.menu .table-User a.button:hover {
+  background-color: #0A525A;
+}
+
+/* Gaya form edit User */
+#section7.menu .search-setting #edit-user- {
+  display: none;
+  margin-bottom: 20px;
+}
+
+#section7.menu .search-setting #edit-user- input[type="text"],
+#section7.menu .search-setting #edit-user- input[type="password"] {
+  margin-top: 10px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+#section7.menu .search-setting #edit-user- .button-update {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section7.menu .search-setting #edit-user- .button-update:hover {
+  background-color: #0A525A;
+}
+
+/* Gaya form tambah User */
+#section7.menu #add-user {
+  display: none;
+  margin-bottom: 20px;
+}
+
+#section7.menu #add-user input[type="text"],
+#section7.menu #add-user input[type="password"] {
+  margin-top: 10px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+#section7.menu #add-user button[type="submit"],
+#section7.menu #add-user button[type="button"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#section7.menu #add-user button[type="submit"]:hover,
+#section7.menu #add-user button[type="button"]:hover {
+  background-color: #0A525A;
+}

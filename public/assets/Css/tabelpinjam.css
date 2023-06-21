@@ -1,0 +1,151 @@
+.menu {
+  margin-top: 20px;
+}
+
+.menu h2 {
+  color: #333;
+  text-align: center;
+}
+
+.navbar-peminjaman {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #5DA698;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+a.button {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+a.button:hover {
+  background-color: #0A525A;
+}
+
+.excelpinjam {
+  display: inline-block;
+  padding: 8px 16px;
+  margin-left: 10px;
+  background-color: #c49a6b;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 5px;
+}
+.excelpinjam:hover {
+  background-color: #0A525A;
+}
+
+#cari-peminjam {
+  margin-left: 10px;
+  padding: 6px;
+  border-radius: 20px;
+  width: 250px;
+  background-color: #ffffff94;
+  color: #050505;
+  outline: none; /* Menghilangkan garis hitam saat diklik */
+}
+
+.table-pinjam {
+  margin-bottom: 20px;
+}
+
+#tabel-peminjam {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabel-peminjam th{
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  background-color: #5DA698;
+  color: #fff;
+}
+#tabel-peminjam td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #050000;
+}
+#tabel-peminjam tbody tr:nth-child(even) {
+  background-color: #f2f2f2; /* Warna abu-abu pada baris genap */
+}
+
+#tabel-peminjam tbody tr:nth-child(odd) {
+  background-color: #fff; /* Warna putih pada baris ganjil */
+}
+
+.search-pinjam {
+  margin-top: 20px;
+}
+
+#edit-peminjam {
+  display: none;
+  margin-bottom: 10px;
+}
+
+#edit-peminjam input[type="text"],
+#edit-peminjam input[type="date"] {
+  margin-bottom: 5px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.button-peminjaman {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#tambahForm {
+  display: none;
+  margin-bottom: 20px;
+}
+
+#tambahForm input[type="text"],
+#tambahForm input[type="date"] {
+  margin-bottom: 5px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+#tambahForm button[type="submit"],
+#tambahForm button[type="button"] {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #c49a6b;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+#tambahForm button:hover {
+  background-color: #0A525A;
+}
